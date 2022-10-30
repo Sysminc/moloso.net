@@ -7,8 +7,11 @@
 ## Include
 <table>
   <tr>
-    <td>Location Map</td>
+    <td colspan="3">Location Map</td>
   </tr>
   <tr>
-    <td>Profile Employee</td>
+    <td colspan="3">Profile Employee</td>
+  </tr>
+  <tr>
+    <td colspan="3">Protofolio Project</td>
   </tr>
